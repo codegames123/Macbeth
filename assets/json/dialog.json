@@ -2,12 +2,16 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "Tell me, DOH!, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
 			"newSpeaker" : "true"
 		},
 		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "This is a modified entry"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "This is a new added entry. DOH!"
 		},
 		{	
 			"speaker" : "homer",

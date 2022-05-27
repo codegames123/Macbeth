@@ -1,0 +1,24 @@
+[
+	[
+        {
+			"speaker" : "duncan",
+			"dialog" : "What bloody man is that? He can report, As seemeth by his plight, of the revolt The newest state.",
+			"newSpeaker" : "true"
+		},
+        {
+			"speaker" : "malcolm",
+			"dialog" : "This is the sergeant Who like a good and hardy soldier fought'Gainst my captivity. Hail, brave friend! Say to the king the knowledge of the broilAs thou didst leave it.",
+			"newSpeaker" : "true"
+		},
+        {
+			"speaker" : "sargeant",
+			"dialog" : "Doubtful it stood; As two spent swimmers, that do cling togetherAnd choke their art. The merciless Macdonwald--Worthy to be a rebel, for to thatThe multiplying villanies of nature Do swarm upon him--from the western isles Of kerns and gallowglasses is supplied;...",
+			"newSpeaker" : "true"
+		},
+        {
+			"speaker" : "duncan",
+			"dialog" : "O valiant cousin! worthy gentleman!",
+			"newSpeaker" : "true"
+		}
+    ]
+]
